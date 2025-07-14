@@ -7,13 +7,13 @@ Dosen : Agung Nugroho, S.Kom., M.Kom.
 # Tugas Praktikum 1
 
 - Membuat Controller Lengkap
-  [(https://github.com/Lafyn/Lab7Web/blob/6831421c647484a5204dea1b03f9451e961b3550/app/Controllers/Page.php)]
+  [(https://github.com/Lafyn/Lab7Web/blob/main/app/Controllers/Page.php)]
 
 - Membuat View
-  [(https://github.com/Lafyn/Lab7Web/blob/6831421c647484a5204dea1b03f9451e961b3550/app/Views/about.php)]
+  [(https://github.com/Lafyn/Lab7Web/blob/main/app/Views/about.php)]
 
 - Membuat Template Header & Footer
-  [(https://github.com/Lafyn/Lab7Web/tree/6831421c647484a5204dea1b03f9451e961b3550/app/Views/template)]
+  [(https://github.com/Lafyn/Lab7Web/tree/main/app/Views/template)]
 
 - Perubahan Halaman yang terjadi
   ![alt text](image.png)
@@ -24,13 +24,13 @@ Dosen : Agung Nugroho, S.Kom., M.Kom.
   ![alt text](image-1.png)
 
 - Membuat Model untuk data artikel
-  [(https://github.com/Lafyn/Lab7Web/blob/4038247f70c6fcd9fda9ecd3576cba58d2ab276c/app/Models/ArtikelModel.php)]
+  [(https://github.com/Lafyn/Lab7Web/blob/main/app/Models/ArtikelModel.php)]
 
 - Membuat Controller Baru Artikel.php
-  [(https://github.com/Lafyn/Lab7Web/blob/4038247f70c6fcd9fda9ecd3576cba58d2ab276c/app/Controllers/Artikel.php)]
+  [(https://github.com/Lafyn/Lab7Web/blob/main/app/Controllers/Artikel.php)]
 
 - Membuat View direktori artikel dan index.php dan menghubungkan dengan database
-  [(https://github.com/Lafyn/Lab7Web/blob/4038247f70c6fcd9fda9ecd3576cba58d2ab276c/app/Views/artikel/index.php)]
+  [(https://github.com/Lafyn/Lab7Web/blob/main/app/Views/artikel/index.php)]
   ![alt text](image-2.png)
 
 - Membuat tampilan detail artikel
